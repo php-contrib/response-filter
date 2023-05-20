@@ -1,7 +1,7 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
     "name": "phpolar/response-filter",
-    "description": "add your description here.",
+    "description": "Supports filtering PSR-7 HTTP Responses",
     "type": "library",
     "require-dev": {
         "ext-ast": "*",
