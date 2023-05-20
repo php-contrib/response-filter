@@ -1,0 +1,16 @@
+/CHANGELOG.md               export-ignore
+/composer.json              export-ignore
+/composer.lock              export-ignore
+/.cz.yaml                   export-ignore
+/.gitattributes             export-ignore
+/.github                    export-ignore
+/.gitignore                 export-ignore
+/phpcs.xml                  export-ignore
+/.pre-commit-config.yaml    export-ignore
+/README.md                  export-ignore
+/SECURITY.md                export-ignore
+/.vscode                    export-ignore
+*.png                       export-ignore
+*.svg                       export-ignore
+
+*.php diff=php
