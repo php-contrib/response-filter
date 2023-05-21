@@ -8,7 +8,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Phpolar\\Http\\Message\\": "src"
+      "Phpolar\\Http\\Message\\": "src/Http/Message/"
     }
   },
   "config": {
