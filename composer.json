@@ -21,7 +21,6 @@
   "license": "MIT",
   "scripts": {
     "lint": "phpcs",
-    "lint-fix": "phpcbf",
-    "semgrep": "semgrep --config auto -l php ./src"
+    "lint-fix": "phpcbf"
   }
 }
