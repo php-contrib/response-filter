@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Phpolar\Http\Message;
+namespace PhpContrib\Http\Message;
 
 use Psr\Http\Message\ResponseInterface;
 

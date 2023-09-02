@@ -1,6 +1,6 @@
 {
   "$schema": "https://getcomposer.org/schema.json",
-  "name": "phpolar/response-filter",
+  "name": "php-contrib/response-filter",
   "description": "Supports filtering PSR-7 HTTP Responses",
   "type": "library",
   "require-dev": {
@@ -8,7 +8,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Phpolar\\Http\\Message\\": "src/Http/Message/"
+      "PhpContrib\\Http\\Message\\": "src/Http/Message/"
     }
   },
   "config": {
